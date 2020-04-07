@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "stera",
+      "description": "xefd",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "This stream is about refectoring!",
+      "id": 4
+    },
+    {
+      "title": "A stream",
+      "description": "tream two",
+      "userId": "109566606050054784975",
+      "id": 5
+    }
+  ]
+}
